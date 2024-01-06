@@ -1,0 +1,35 @@
+html {
+    background-color: #ffe5e5;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+}
+
+
+
+.meme{
+    
+
+    width: 550px;
+    height: 550px;
+    margin: 50px auto 0 auto;
+    text-align: center;
+    background-color: whitesmoke;
+    box-shadow: 5px 8px 20px 0px rgba(0,0,0,0.5);
+
+
+}
+
+.main {
+    height: 420px;
+    width: 100%;
+    border: 5px white;
+
+}
